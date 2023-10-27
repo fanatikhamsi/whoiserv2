@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/LayeredStudio/whoiser.git"
+    "url": "git+ssh://git@github.com/fanatikhamsi/whoiserv2.git"
   },
   "bugs": {
     "url": "https://github.com/LayeredStudio/whoiser/issues"
